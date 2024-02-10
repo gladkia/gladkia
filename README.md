@@ -16,4 +16,5 @@
 | [_gDR_](https://github.com/gdrplatform/gDR) | [![](http://bioconductor.org/shields/build/devel/bioc/gDR.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/gDR) |[![](http://bioconductor.org/shields/build/release/bioc/gDR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/gDR) |
 | [_igvR_](https://github.com/gladkia/igvR) | [![](http://bioconductor.org/shields/build/devel/bioc/igvR.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/igvR) |[![](http://bioconductor.org/shields/build/release/bioc/igvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/igvR) |
 | [_BrowserViz_](https://github.com/gladkia/BrowserViz) | [![](http://bioconductor.org/shields/build/devel/bioc/BrowserViz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BrowserViz) |[![](http://bioconductor.org/shields/build/release/bioc/BrowserViz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BrowserViz) |
+| [_igvShiny_](https://github.com/gladkia/igvShiny) | [![](http://bioconductor.org/shields/build/devel/bioc/igvShiny.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/igvShiny) | - |
 
